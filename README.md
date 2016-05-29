@@ -42,12 +42,12 @@
 
 ### 3. Unityでアプリを起動
 
-* ダウンロードしたフォルダを開き、![画像09](/readme-img/009.png)をダブルクリックしてUnityを開きます
+* ダウンロードしたフォルダを解凍し、Unityから開いてください。その後、Loginsigninシーンを開いてください。
 
 
 ### 4. APIキーの設定
 
-* Loginsigninシーン`NCMBSettings`を編集します
+* Loginsigninシーンの`NCMBSettings`を編集します
 * 先程[ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)のダッシュボード上で確認したAPIキーを貼り付けます
 
 ![画像07](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/ApiKey.png)
