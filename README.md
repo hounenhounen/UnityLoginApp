@@ -62,17 +62,17 @@
 ![画像12](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/UnityLogin.png)
 
 * シミュレーターが起動したら、Login&SignIn画面が表示されます
-* 初回は__`SignUp`__ ボタンをクリックして、会員登録を行います
+* 初回は__`SignUp`__ ボタンをクリックして、会員登録を行います。
 
-![画像14](/readme-img/014.png)
+![画像14](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/LoginSignView.png)
 
-* `UserName`と`Password`を２つ入力して![画像13](/readme-img/013.png)ボタンをタップします
+* 2回目以降は`UserName`と`Password`を２つ入力してLoginボタンをタップします
 * 会員登録が成功するとログインされ、下記画面が表示されます
  * このときmBaaS上に会員情報が作成されます！
  * ログインに失敗した場合は画面にエラー内容が表示されます
  * 万が一エラーが発生した場合は、[こちら](http://mb.cloud.nifty.com/doc/current/rest/common/error.html)よりエラー内容を確認いただけます
 
-![画像15](/readme-img/015.png)
+![画像15](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/LogOutView.png)
 
 * __`Logout`__ ボタンをタップするとログアウトし、元の画面に戻ります
 * 登録された会員情報を使ってLogin画面からログインが可能です（操作は同様です）
@@ -81,7 +81,7 @@
 
 * 保存に成功したら、[ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)のダッシュボードから「会員管理」を確認してみましょう！
 
-![画像1](/readme-img/001.png)
+![画像1](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/UnityLogin.png)
 
 ## 解説
 サンプルプロジェクトに実装済みの内容のご紹介
