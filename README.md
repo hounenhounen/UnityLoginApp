@@ -1,5 +1,5 @@
 # 【Unity】アプリにログイン機能をつけよう！
-![画像1](/readme-img/)
+![画像1](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/UnityLogin.png)
 
 ## 概要
 * [ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)の『会員管理機能』を利用してUnityアプリにログイン機能を実装したサンプルプロジェクトです
@@ -57,9 +57,9 @@
 * 書き換え終わったら`command + s`キーで保存をします
 
 ### 5. 動作確認
-* Unity画面で左上の実行ボタン（さんかくの再生マーク）をクリックします
+* Unity画面で上部真ん中の実行ボタン（さんかくの再生マーク）をクリックします
 
-![画像12](/readme-img/012.png)
+![画像12](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/UnityLogin.png)
 
 * シミュレーターが起動したら、Login&SignIn画面が表示されます
 * 初回は__`SignUp`__ ボタンをクリックして、会員登録を行います
