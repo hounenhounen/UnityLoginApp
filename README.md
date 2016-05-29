@@ -25,20 +25,20 @@
 
 * 上記リンクから会員登録（無料）をします。登録ができたらログインをすると下図のように「アプリの新規作成」画面が出るのでアプリを作成します
 
-![画像3](/readme-img/003.png)
+![画像3](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/003.png)
 
 * アプリ作成されると下図のような画面になります
 * この２種類のAPIキー（アプリケーションキーとクライアントキー）はXcodeで作成するiOSアプリに[ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)を紐付けるために使用します
 
-![画像4](/readme-img/004.png)
+![画像4](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/004.png)
 
 * 動作確認後に会員情報が保存される場所も確認しておきましょう
 
-![画像5](/readme-img/005.png)
+![画像5](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/005.png)
 
 ### 2. [GitHub](-後ほど修正-)からサンプルプロジェクトのダウンロード
 
-* この画面([GitHub](https://github.com/natsumo/ObjcLoginApp.git))の![画像10](/readme-img/010.png)ボタンをクリックし、さらに![画像11](/readme-img/011.PNG)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
+* この画面([GitHub](https://github.com/natsumo/ObjcLoginApp.git))の![画像10](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/010.png)ボタンをクリックし、さらに![画像11](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/011.PNG)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
 
 ### 3. Unityでアプリを起動
 
