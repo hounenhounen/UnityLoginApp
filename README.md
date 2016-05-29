@@ -36,9 +36,9 @@
 
 ![画像5](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/005.png)
 
-### 2. [GitHub](-後ほど修正-)からサンプルプロジェクトのダウンロード
+### 2. [GitHub](https://github.com/hounenhounen/UnityLoginApp)からサンプルプロジェクトのダウンロード
 
-* この画面([GitHub](https://github.com/natsumo/ObjcLoginApp.git))の![画像10](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/010.png)ボタンをクリックし、さらに![画像11](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/011.PNG)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
+* この画面([GitHub](https://github.com/hounenhounen/UnityLoginApp))の![画像10](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/010.png)ボタンをクリックし、さらに![画像11](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/011.PNG)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
 
 ### 3. Unityでアプリを起動
 
@@ -50,7 +50,7 @@
 * Loginsigninシーン`NCMBSettings`を編集します
 * 先程[ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)のダッシュボード上で確認したAPIキーを貼り付けます
 
-![画像07](Apikey.png)
+![画像07](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/ApiKey.png)
 
 * それぞれ`YOUR_NCMB_APPLICATION_KEY`と`YOUR_NCMB_CLIENT_KEY`の部分を書き換えます
  * このとき、ダブルクォーテーション（`"`）を消さないように注意してください！
