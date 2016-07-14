@@ -53,9 +53,7 @@
 
 ![画像07](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/ApiKey.png)
 
-* それぞれ`YOUR_NCMB_APPLICATION_KEY`と`YOUR_NCMB_CLIENT_KEY`の部分を書き換えます
- * このとき、ダブルクォーテーション（`"`）を消さないように注意してください！
-* 書き換え終わったら`command + s`キーで保存をします
+* それぞれ「Application Key」と「Client Key」のテキストフィールドに「アプリケーションキー」と「クライアントキー」を貼り付けます
 
 ### 5. 動作確認
 * Unity画面で上部真ん中の実行ボタン（さんかくの再生マーク）をクリックします
