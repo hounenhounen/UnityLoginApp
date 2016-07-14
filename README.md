@@ -13,9 +13,10 @@
 ![画像2](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/002.png)
 
 ## 動作環境
-* Mac OS X 10.11.5(EI Capitan)
-* Unity ver. 5.2.1f1
-* MonoDevelop-Unity ver. 4.0.1
+* Mac OS X 10.10.5(Yosemite)
+* Unity ver. 5.3.5f1
+* MonoDevelop-Unity ver. 5.9.6
+* NCMB UnitySDK v2.2.0
 
 ※上記内容で動作確認をしています。
 
