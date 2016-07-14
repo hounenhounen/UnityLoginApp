@@ -53,7 +53,7 @@
 
 ![画像07](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/ApiKey.png)
 
-* それぞれ「Application Key」と「Client Key」のテキストフィールドにコピーした「アプリケーションキー」と「クライアントキー」を貼り付けます
+* それぞれ「Application Key」と「Client Key」のテキストフィールドに「アプリケーションキー」と「クライアントキー」を貼り付けます
 
 ### 5. 動作確認
 * Unity画面で上部真ん中の実行ボタン（さんかくの再生マーク）をクリックします
