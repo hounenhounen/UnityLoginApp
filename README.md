@@ -1,5 +1,5 @@
 # 【Unity】アプリにログイン機能をつけよう！
-![画像1](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/UnityLogin.png)
+![画像1](/readme-img/UnityLogin.png)
 
 ## 概要
 * [ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)の『会員管理機能』を利用してUnityアプリにログイン機能を実装したサンプルプロジェクトです
@@ -10,7 +10,7 @@
 
 注1：詳しくは[こちら](http://mb.cloud.nifty.com/price.htm)をご覧ください
 
-![画像2](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/002.png)
+![画像2](/readme-img/002.png)
 
 ## 動作環境
 * Mac OS X 10.11.5(EI Capitan)
@@ -25,20 +25,20 @@
 
 * 上記リンクから会員登録（無料）をします。登録ができたらログインをすると下図のように「アプリの新規作成」画面が出るのでアプリを作成します
 
-![画像3](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/003.png)
+![画像3](/readme-img/003.png)
 
 * アプリ作成されると下図のような画面になります
 * この２種類のAPIキー（アプリケーションキーとクライアントキー）はXcodeで作成するiOSアプリに[ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)を紐付けるために使用します
 
-![画像4](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/004.png)
+![画像4](/readme-img/004.png)
 
 * 動作確認後に会員情報が保存される場所も確認しておきましょう
 
-![画像5](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/005.png)
+![画像5](/readme-img/005.png)
 
 ### 2. [GitHub](https://github.com/hounenhounen/UnityLoginApp)からサンプルプロジェクトのダウンロード
 
-* この画面([GitHub](https://github.com/hounenhounen/UnityLoginApp))の![画像10](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/010.png)ボタンをクリックし、さらに![画像11](https://github.com/natsumo/SwiftLoginApp/blob/master/readme-img/011.PNG)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
+* この画面([GitHub](https://github.com/hounenhounen/UnityLoginApp))の![画像10](/readme-img/010.png)ボタンをクリックし、さらに![画像11](/readme-img/011.png)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
 
 ### 3. Unityでアプリを起動
 
@@ -50,7 +50,7 @@
 * Loginsigninシーンの`NCMBSettings`を編集します
 * 先程[ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)のダッシュボード上で確認したAPIキーを貼り付けます
 
-![画像07](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/ApiKey.png)
+![画像07](/readme-img/ApiKey.png)
 
 * それぞれ`YOUR_NCMB_APPLICATION_KEY`と`YOUR_NCMB_CLIENT_KEY`の部分を書き換えます
  * このとき、ダブルクォーテーション（`"`）を消さないように注意してください！
@@ -59,12 +59,12 @@
 ### 5. 動作確認
 * Unity画面で上部真ん中の実行ボタン（さんかくの再生マーク）をクリックします
 
-![画像12](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/UnityLogin.png)
+![画像12](/readme-img/UnityLogin.png)
 
 * シミュレーターが起動したら、Login&SignIn画面が表示されます
 * 初回は__`SignUp`__ ボタンをクリックして、会員登録を行います。
 
-![画像14](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/LoginSignView.png)
+![画像14](/readme-img/LoginSignView.png)
 
 * 2回目以降は`UserName`と`Password`を２つ入力してLoginボタンをタップします
 * 会員登録が成功するとログインされ、下記画面が表示されます
@@ -72,7 +72,7 @@
  * ログインに失敗した場合は画面にエラー内容が表示されます
  * 万が一エラーが発生した場合は、[こちら](http://mb.cloud.nifty.com/doc/current/rest/common/error.html)よりエラー内容を確認いただけます
 
-![画像15](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/LogOutView.png)
+![画像15](/readme-img/LogOutView.png)
 
 * __`Logout`__ ボタンをタップするとログアウトし、元の画面に戻ります
 * 登録された会員情報を使ってLogin画面からログインが可能です（操作は同様です）
@@ -81,7 +81,7 @@
 
 * 保存に成功したら、[ニフティクラウドmobile backend](http://mb.cloud.nifty.com/)のダッシュボードから「会員管理」を確認してみましょう！
 
-![画像1](https://github.com/hounenhounen/UnityLoginApp/blob/master/readme-img/UnityLogin.png)
+![画像1](/readme-img/UnityLogin.png)
 
 ## 解説
 サンプルプロジェクトに実装済みの内容のご紹介
