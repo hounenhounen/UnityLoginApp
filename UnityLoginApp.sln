@@ -1,7 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{213A38B2-0B66-40AA-F9DD-9932D9C33E02}") = "UnityLoginApp", "Assembly-CSharp.csproj", "{F7081429-87C0-973B-4522-1C8D2686CBE9}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLoginApp", "Assembly-CSharp.csproj", "{F7081429-87C0-973B-4522-1C8D2686CBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLoginApp", "Assembly-CSharp-Editor.csproj", "{1957699E-4E20-AA49-96F5-9CD03E90A6B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{F7081429-87C0-973B-4522-1C8D2686CBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7081429-87C0-973B-4522-1C8D2686CBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7081429-87C0-973B-4522-1C8D2686CBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1957699E-4E20-AA49-96F5-9CD03E90A6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1957699E-4E20-AA49-96F5-9CD03E90A6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1957699E-4E20-AA49-96F5-9CD03E90A6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1957699E-4E20-AA49-96F5-9CD03E90A6B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
