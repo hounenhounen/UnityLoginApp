@@ -53,7 +53,6 @@
 ![画像07](/readme-img/ApiKey.png)
 
 * それぞれ`YOUR_NCMB_APPLICATION_KEY`と`YOUR_NCMB_CLIENT_KEY`の部分を書き換えます
- * このとき、ダブルクォーテーション（`"`）を消さないように注意してください！
 * 書き換え終わったら`command + s`キーで保存をします
 
 ### 5. 動作確認
@@ -62,7 +61,7 @@
 ![画像12](/readme-img/UnityLogin.png)
 
 * シミュレーターが起動したら、Login&SignIn画面が表示されます
-* 初回は__`SignUp`__ ボタンをクリックして、会員登録を行います。
+* 初回は __`SignIn`__  ボタンをクリックして、会員登録を行います。
 
 ![画像14](/readme-img/LoginSignView.png)
 
