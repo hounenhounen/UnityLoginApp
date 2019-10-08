@@ -2,13 +2,13 @@
 ![画像1](/readme-img/UnityLogin.png)
 
 ## 概要
-* [ニフクラmobile backend](http://mb.cloud.nifty.com/)の『会員管理機能』を利用してUnityアプリにログイン機能を実装したサンプルプロジェクトです
-* 簡単な操作ですぐに [ニフクラmobile backend](http://mb.cloud.nifty.com/)の機能を体験いただけます★☆
+* [ニフクラmobile backend](https://mbaas.nifcloud.com/)の『会員管理機能』を利用してUnityアプリにログイン機能を実装したサンプルプロジェクトです
+* 簡単な操作ですぐに [ニフクラmobile backend](https://mbaas.nifcloud.com/)の機能を体験いただけます★☆
 
 ## ニフクラmobile backendって何？？
 スマートフォンアプリのバックエンド機能（プッシュ通知・データストア・会員管理・ファイルストア・SNS連携・位置情報検索・スクリプト）が**開発不要**、しかも基本**無料**(注1)で使えるクラウドサービス！今回はデータストアを体験します
 
-注1：詳しくは[こちら](http://mb.cloud.nifty.com/price.htm)をご覧ください
+注1：詳しくは[こちら](https://mbaas.nifcloud.com/price.htm)をご覧ください
 
 ![画像2](/readme-img/002.png)
 
@@ -21,14 +21,14 @@
 
 
 ## 手順
-### 1. [ニフクラmobile backend](http://mb.cloud.nifty.com/)の会員登録とログイン→アプリ作成
+### 1. [ニフクラmobile backend](https://mbaas.nifcloud.com/)の会員登録とログイン→アプリ作成
 
 * 上記リンクから会員登録（無料）をします。登録ができたらログインをすると下図のように「アプリの新規作成」画面が出るのでアプリを作成します
 
 ![画像3](/readme-img/003.png)
 
 * アプリ作成されると下図のような画面になります
-* この２種類のAPIキー（アプリケーションキーとクライアントキー）はXcodeで作成するiOSアプリに[ニフクラmobile backend](http://mb.cloud.nifty.com/)を紐付けるために使用します
+* この２種類のAPIキー（アプリケーションキーとクライアントキー）はXcodeで作成するiOSアプリに[ニフクラmobile backend](https://mbaas.nifcloud.com/)を紐付けるために使用します
 
 ![画像4](/readme-img/004.png)
 
@@ -48,12 +48,11 @@
 ### 4. APIキーの設定
 
 * Loginsigninシーンの`NCMBSettings`を編集します
-* 先程[ニフクラmobile backend](http://mb.cloud.nifty.com/)のダッシュボード上で確認したAPIキーを貼り付けます
+* 先程[ニフクラmobile backend](https://mbaas.nifcloud.com/)のダッシュボード上で確認したAPIキーを貼り付けます
 
 ![画像07](/readme-img/ApiKey.png)
 
 * それぞれ`YOUR_NCMB_APPLICATION_KEY`と`YOUR_NCMB_CLIENT_KEY`の部分を書き換えます
- * このとき、ダブルクォーテーション（`"`）を消さないように注意してください！
 * 書き換え終わったら`command + s`キーで保存をします
 
 ### 5. 動作確認
@@ -62,7 +61,7 @@
 ![画像12](/readme-img/UnityLogin.png)
 
 * シミュレーターが起動したら、Login&SignIn画面が表示されます
-* 初回は__`SignUp`__ ボタンをクリックして、会員登録を行います。
+* 初回は __`SignIn`__  ボタンをクリックして、会員登録を行います。
 
 ![画像14](/readme-img/LoginSignView.png)
 
@@ -70,7 +69,7 @@
 * 会員登録が成功するとログインされ、下記画面が表示されます
  * このときmBaaS上に会員情報が作成されます！
  * ログインに失敗した場合は画面にエラー内容が表示されます
- * 万が一エラーが発生した場合は、[こちら](http://mb.cloud.nifty.com/doc/current/rest/common/error.html)よりエラー内容を確認いただけます
+ * 万が一エラーが発生した場合は、[こちら](https://mbaas.nifcloud.com/doc/current/rest/common/error.html)よりエラー内容を確認いただけます
 
 ![画像15](/readme-img/LogOutView.png)
 
@@ -79,7 +78,7 @@
 
 -----
 
-* 保存に成功したら、[ニフクラmobile backend](http://mb.cloud.nifty.com/)のダッシュボードから「会員管理」を確認してみましょう！
+* 保存に成功したら、[ニフクラmobile backend](https://mbaas.nifcloud.com/)のダッシュボードから「会員管理」を確認してみましょう！
 
 ![画像1](/readme-img/UnityLogin.png)
 
@@ -87,7 +86,7 @@
 サンプルプロジェクトに実装済みの内容のご紹介
 
 #### SDKのインポートと初期設定
-* ニフクラmobile backend の[ドキュメント（クイックスタート）](http://mb.cloud.nifty.com/doc/current/introduction/quickstart_unity.html)をUnity版に書き換えたドキュメントをご用意していますので、ご活用ください
+* ニフクラmobile backend の[ドキュメント（クイックスタート）](https://mbaas.nifcloud.com/doc/current/introduction/quickstart_unity.html)をUnity版に書き換えたドキュメントをご用意していますので、ご活用ください
  
 #### ロジック
  * `Loginsignin.cs`,`Logout.cs`にロジックを書いています
@@ -165,4 +164,4 @@ public void Logout_user ()
 ```
 
 ## 参考
-* ニフクラmobile backend の[ドキュメント（会員管理）](http://mb.cloud.nifty.com/doc/current/user/basic_usage_unity.html)
+* ニフクラmobile backend の[ドキュメント（会員管理）](https://mbaas.nifcloud.com/doc/current/user/basic_usage_unity.html)
