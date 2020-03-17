@@ -13,11 +13,10 @@
 ![画像2](/readme-img/002.png)
 
 ## 動作環境
-* Mac OS Mojave
-* Unity 2019.1.0f2
-* Visual Studio ver.8.1.2
-* Mono ver.5.18 
-* NCMB UnitySDK v4.0.1
+* MacOS Mojave v10.14.6 (18G103)
+* Android studio: 3.4.1
+* Simulator: Pixel 2 Android OS Version 10
+* Unity 2019.1.14f1
 
 ※上記内容で動作確認をしています。
 
