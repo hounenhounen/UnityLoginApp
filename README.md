@@ -38,9 +38,9 @@
 
 ![画像5](/readme-img/005.png)
 
-### 2. [GitHub](https://github.com/hounenhounen/UnityLoginApp)からサンプルプロジェクトのダウンロード
+### 2. [GitHub](https://github.com/NIFCLOUD-mbaas/UnityLoginApp)からサンプルプロジェクトのダウンロード
 
-* この画面([GitHub](https://github.com/hounenhounen/UnityLoginApp))の![画像10](/readme-img/010.png)ボタンをクリックし、さらに![画像11](/readme-img/011.png)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
+* この画面([GitHub](https://github.com/NIFCLOUD-mbaas/UnityLoginApp))の![画像10](/readme-img/010.png)ボタンをクリックし、さらに![画像11](/readme-img/011.png)ボタンをクリックしてサンプルプロジェクトをMacにダウンロードします
 
 ### 3. Unityでアプリを起動
 
