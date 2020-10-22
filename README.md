@@ -13,10 +13,12 @@
 ![画像2](/readme-img/002.png)
 
 ## 動作環境
-* MacOS Mojave v10.14.6 (18G103)
-* Android studio: 3.4.1
-* Simulator: Pixel 2 Android OS Version 10
-* Unity 2019.1.14f1
+
+* MacOS Mojave v10.15.6 (Catalina)
+* Android studio: 4.0
+* LG V20 plus (OS 8.0)
+* Unity 2020.1.8f1
+* iphone 7 14.0
 
 ※上記内容で動作確認をしています。
 
